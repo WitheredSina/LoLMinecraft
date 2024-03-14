@@ -1,0 +1,7 @@
+name: LoLMinecraft
+version: '${project.version}'
+main: net.witheredsina.lolminecraft.LoLMinecraft
+api-version: '1.20'
+commands:
+  lol:
+    usage: /lol [champion]
